@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "trendyolscience6-py", "trendyolscience6-py.pyproj", "{5EAC8DF8-C0F5-49FE-A85F-680ECB092018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EAC8DF8-C0F5-49FE-A85F-680ECB092018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAC8DF8-C0F5-49FE-A85F-680ECB092018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB71CBE4-F7A0-4151-A749-B0D0BE900DE8}
+	EndGlobalSection
+EndGlobal
