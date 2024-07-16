@@ -10,3 +10,4 @@
 ![Ekran görüntüsü 2024-04-21 175124](https://github.com/arazumut/jpg-goruntu-islemeAND-trendyolScience/assets/150933483/eeebbfcc-e8f5-421c-858a-07330db52777)
 
 ![Ekran görüntüsü 2024-04-21 181117](https://github.com/arazumut/jpg-goruntu-islemeAND-trendyolScience/assets/150933483/87eecaf8-9291-4143-9f10-9d656a06e65f)
+
