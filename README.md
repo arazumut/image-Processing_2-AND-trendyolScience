@@ -1,4 +1,4 @@
-<h1>verilen resmi sıra ile; grileştirir,blurlaştırır,canny kenar tespiti uygular,konturları belirler,rgb uzayına ekler.</h1>
+<h1>Verilen resmi sıra ile; grileştirir,blurlaştırır,canny kenar tespiti uygular,konturları belirler,rgb uzayına ekler.</h1>
 <h2>isteğe ve senoryoya göre çıkarılıp eklenebilir.</h2>
 
 <h1>3 farklı şekilde trendyol web sitesinden ürünlerin ismini veya url sini girerek fiyatların verilerini çekme programı</h1>
