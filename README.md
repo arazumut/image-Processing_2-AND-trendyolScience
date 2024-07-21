@@ -7,22 +7,22 @@ Resim 800x600 piksel boyutlarına yeniden boyutlandırılır. Bu, işlem hızın
 3. Gri Tonlamaya Çevir
 Yeniden boyutlandırılmış resim gri tonlamaya çevrilir. Gri tonlama, renk bilgilerini kaybederek sadece parlaklık bilgilerini saklar. Bu, kenar tespiti ve diğer görüntü işleme teknikleri için daha uygundur.
 
-4. Bulanıklaştır
+5. Bulanıklaştır
 Gri tonlamalı resim, Gaussian bulanıklaştırma yöntemi kullanılarak bulanıklaştırılır. Bu, gürültüyü azaltarak kenar tespitinin daha doğru olmasını sağlar.
 
-5. Kenar Tespiti
+6. Kenar Tespiti
 Canny algoritması kullanılarak bulanıklaştırılmış gri tonlamalı resimde kenar tespiti yapılır. Bu, resimdeki belirgin kenarları ve nesnelerin sınırlarını bulur.
 
-6. Kontur Bulma
+7. Kontur Bulma
 Elde edilen kenar tespiti sonucu, konturlar bulunur. Konturlar, nesnelerin sınırlarını temsil eder.
 
-7. RGB'ye Çevir
+8. RGB'ye Çevir
 Yeniden boyutlandırılmış resim, RGB formatına çevrilir. Bu adım, konturların renkli resim üzerinde gösterilebilmesi için yapılır.
 
-8. Konturları Çiz
+9. Konturları Çiz
 Boş bir resim üzerinde, bulunan konturlar yeşil renkle çizilir. Bu, nesnelerin sınırlarının belirgin hale gelmesini sağlar.
 
-9. Görüntüleri Göster
+10. Görüntüleri Göster
 Son olarak, farklı adımlarda elde edilen görüntüler ayrı pencerelerde gösterilir:
 
 Orijinal Yeniden Boyutlandırılmış Resim
