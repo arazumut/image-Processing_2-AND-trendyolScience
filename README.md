@@ -37,13 +37,6 @@ RGB Resim
 Konturlar
 Bu pencereler, kullanıcı herhangi bir tuşa basana kadar açık kalır ve ardından kapatılır. Bu adımlar, görüntü işleme tekniklerini kullanarak bir resmin nasıl analiz edileceği ve kenarlarının nasıl tespit edileceği hakkında bilgi sağlar.
 
-
-
-
-
-
-
-
 <h1>3 Farklı şekilde trendyol web sitesinden ürünlerin ismini veya url sini girerek fiyatların verilerini çekme programı</h1>
 
 ![Ekran görüntüsü 2024-04-21 175139](https://github.com/arazumut/jpg-goruntu-islemeAND-trendyolScience/assets/150933483/c618515b-e15f-4acf-bdf5-9b04fd97cd7e)
