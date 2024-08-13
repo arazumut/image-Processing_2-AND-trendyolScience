@@ -8,7 +8,7 @@ Kod, belirtilen dosya yolundaki resmi okur. Eğer resim dosyası okunamazsa, hat
 2. Resmi Yeniden Boyutlandır
 Resim 800x600 piksel boyutlarına yeniden boyutlandırılır. Bu, işlem hızını artırmak ve bellek kullanımını azaltmak için yapılır.
 
-3. Gri Tonlamaya Çevir
+4. Gri Tonlamaya Çevir
 Yeniden boyutlandırılmış resim gri tonlamaya çevrilir. Gri tonlama, renk bilgilerini kaybederek sadece parlaklık bilgilerini saklar. Bu, kenar tespiti ve diğer görüntü işleme teknikleri için daha uygundur.
 
 5. Bulanıklaştır
